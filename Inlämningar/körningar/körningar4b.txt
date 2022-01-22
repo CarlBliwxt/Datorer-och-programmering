@@ -1,0 +1,175 @@
+-- Testdata 1: --
+
+Ange filnamn: doyle
+Resultatet för bokstäverna A-Z 
+
+Totalt antal bokstäver: 12885
+Engelska har kvadratsumma = 1.75771
+Franska har kvadratsumma = 96.1956
+Svenska har kvadratsumma = 73.3371
+Tyska har kvadratsumma = 116.072
+Det mest troliga språket är engelska
+Frekvetstabell:
+Bokstav  Procent
+A       ****************
+B       **
+C       ******
+D       ********
+E       ************************
+F       ****
+G       **
+H       ************
+I       ****************
+J
+K       **
+L       ********
+M       ******
+N       ************
+O       ****************
+P       ****
+Q
+R       ************
+S       ************
+T       ******************
+U       ******
+V       **
+W       ****
+X
+Y       ****
+Z
+
+C:\Users\carlb\Desktop\Programmering>
+
+-- Testdata 2: -- 
+
+Ange filnamn: goethe.txt
+Resultatet för bokstäverna A-Z 
+
+Totalt antal bokstäver: 14027
+Engelska har kvadratsumma = 107.856
+Franska har kvadratsumma = 85.205
+Svenska har kvadratsumma = 160.318
+Tyska har kvadratsumma = 1.04313
+Det mest troliga språket är tyska
+Frekvetstabell:
+Bokstav  Procent
+A       **********
+B       ****
+C       ********
+D       **********
+E       **********************************
+F       **
+G       ******
+H       ************
+I       ******************
+J
+K       **
+L       ******
+M       ******
+N       **********************
+O       ****
+P
+Q
+R       ************
+S       **************
+T       ************
+U       ********
+V       **
+W       ****
+X
+Y       **
+Z       **
+
+C:\Users\carlb\Desktop\Programmering>
+
+-- Testdata 3: --
+Ange filnamn: lagerlof
+Resultatet för bokstäverna A-Z 
+
+Totalt antal bokstäver: 12221
+Engelska har kvadratsumma = 86.6804
+Franska har kvadratsumma = 145.722
+Svenska har kvadratsumma = 8.88258
+Tyska har kvadratsumma = 170.223
+Det mest troliga språket är svenska
+Frekvetstabell:
+Bokstav  Procent
+A       **********************
+B       **
+C       **
+D       ************
+E       ********************
+F       ****
+G       ********
+H       ********
+I       ********
+J       **
+K       ******
+L       **********
+M       ********
+N       ******************
+O       ********
+P       **
+Q
+R       **************
+S       **************
+T       ******************
+U       ****
+V       ******
+W
+X
+Y
+Z
+
+C:\Users\carlb\Desktop\Programmering>
+
+-- Testdata 4 -- 
+
+Ange filnamn: verne.txt
+Resultatet för bokstäverna A-Z 
+
+Totalt antal bokstäver: 11417
+Engelska har kvadratsumma = 112.425
+Franska har kvadratsumma = 0.885142
+Svenska har kvadratsumma = 149.256
+Tyska har kvadratsumma = 90.491
+Det mest troliga språket är frasnka
+Frekvetstabell:
+Bokstav  Procent
+A       ****************
+B       **
+C       ********
+D       ********
+E       **********************************
+F       **
+G       **
+H       **
+I       **************
+J
+K
+L       **********
+M       ******
+N       ****************
+O       **********
+P       ******
+Q       **
+R       **************
+S       ****************
+T       **************
+U       ************
+V       **
+W
+X       **
+Y
+Z
+
+C:\Users\carlb\Desktop\Programmering>
+
+-- Testdata 5 -- 
+
+Ange filnamn: Hej_Kevin!
+Filen Hej_Kevin!.txt kunde inte hittas vänligen försök igen
+
+C:\Users\carlb\Desktop\Programmering>
+
+

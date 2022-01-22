@@ -1,0 +1,152 @@
+Test 1:
+Startar med att läsa från en fil.
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+6
+Nu skapar vi en personarray och reder ut det hela!
+Eva ligger ute med: 5850 kr och är skyldig 1350 kr. Skall ha 4500 kr från 
+potten!
+Paul ligger ute med: 366.667 kr och är skyldig 2500 kr. Skall lägga till 
+2133.33 kr till potten!
+Bosse ligger ute med: 3750 kr och är skyldig 1350 kr. Skall ha 2400 kr 
+från potten!
+Stina ligger ute med: 2500 kr och är skyldig 1333.33 kr. Skall ha 1166.67 
+kr från potten!
+Kristin ligger ute med: 100 kr och är skyldig 2600 kr. Skall lägga till 
+2500 kr till potten!
+Torsten ligger ute med: 200 kr och är skyldig 3633.33 kr. Skall lägga till 
+3433.33 kr till potten!
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+5
+Ange personen: Eva
+Eva ligger ute med 5850
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+4
+Ange personen: Bosse
+Bosse är skyldig 1350
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+3
+Den totala kostnanden för resan var 18300
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+2
+Ange transaktion i följande format
+Datum (yymmdd) typ av transaktion namn belopp antal och lista på kompisar
+000702 mat Carl 32 1 Kevin
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+1
+Datum   Typ     Namn    Belopp  Antal och lista av kompisar
+190615  transp  Eva     6000    5               Bosse   Kristin Paul    
+Torsten Stina
+190721  mat     Eva     300     2               Bosse   Kristin Paul    
+Torsten Stina
+190721  mat     Paul    400     2               Torsten Stina   Paul    
+Torsten Stina
+190721  transp  Bosse   5000    3               Eva     Kristin Paul    
+Torsten Stina
+190721  transp  Stina   5000    1               Torsten Kristin Paul    
+Torsten Stina
+190722  boende  Kristin 200     1               Eva     Kristin Paul    
+Torsten Stina
+190722  mat     Eva     300     2               Kristin Bosse   Paul    
+Torsten Stina
+190723  mat     Torsten 300     2               Paul    Stina   Paul    
+Torsten Stina
+190724  mat     Paul    200     1               Stina   Stina   Paul    
+Torsten Stina
+190725  transp  Eva     600     3               Bosse   Kristin Paul    
+Torsten Stina
+000702  mat     Carl    32      1               Kevin
+Antal transaktioner är: 11
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+0
+Antal transaktioner är: 11
+C:\Users\carlb\Desktop\Programmering>
+Test 2:
+Startar med att läsa från en fil.
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+1
+Datum   Typ     Namn    Belopp  Antal och lista av kompisar
+190721  mat     Eva     200     1               Bosse
+190722  mat     Eva     400     1               Bosse
+190725  transp  Eva     600     1               Bosse
+190725  mat     Bosse   200     1               Eva
+Antal transaktioner är: 4
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+6
+Nu skapar vi en personarray och reder ut det hela!
+Eva ligger ute med: 600 kr och är skyldig 100 kr. Skall ha 500 kr från 
+potten!
+Bosse ligger ute med: 100 kr och är skyldig 600 kr. Skall lägga till 500 
+kr till potten!
+Välj i menyn nedan:
+0. Avsluta. Alla transaktioner sparas på fil.
+1. Skriv ut information om alla transaktioner.
+2. Läs in en transaktion från tangentbordet.
+3. Beräkna totala kostnaden.
+4. Hur mycket ärr en viss person skyldig?
+5. Hur mycket ligger en viss person ute med?
+6. Lista alla personer mm och FIXA
+0
+Antal transaktioner är: 4

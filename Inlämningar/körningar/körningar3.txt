@@ -1,0 +1,77 @@
+Test 1:
+Hej och välkommen till detta programmet!
+Detta program utför beräkningar utifrån användarens input.
+Två heltal matas in och alla tal mellan dessa två tal summeras 
+multipliceras eller kvadratssummeras, beroende på input
+Ange ett heltal 3
+Ange ett heltal 5
+Ange ett tecken addition, multiplikation eller kvadratsumma a, m eller k:
+a
+Resultatet av operationen är 12
+C:\Users\carlb\Desktop\Programmering>
+Test 2:
+Hej och välkommen till detta programmet!
+Detta program utför beräkningar utifrån användarens input.
+Två heltal matas in och alla tal mellan dessa två tal summeras 
+multipliceras eller kvadratssummeras, beroende på input
+Ange ett heltal 3
+Ange ett heltal 5
+Ange ett tecken addition, multiplikation eller kvadratsumma a, m eller k:
+m
+Resultatet av operationen är 60
+C:\Users\carlb\Desktop\Programmering>
+Test 3:
+Hej och välkommen till detta programmet!
+Detta program utför beräkningar utifrån användarens input.
+Två heltal matas in och alla tal mellan dessa två tal summeras 
+multipliceras eller kvadratssummeras, beroende på input
+Ange ett heltal 3
+Ange ett heltal 5
+Ange ett tecken addition, multiplikation eller kvadratsumma a, m eller k:
+k
+Resultatet av operationen är 50
+C:\Users\carlb\Desktop\Programmering>
+Test 4:
+Hej och välkommen till detta programmet!
+Detta program utför beräkningar utifrån användarens input.
+Två heltal matas in och alla tal mellan dessa två tal summeras 
+multipliceras eller kvadratssummeras, beroende på input
+Ange ett heltal -3
+Ange ett heltal 5
+Ange ett tecken addition, multiplikation eller kvadratsumma a, m eller k:
+m
+Resultatet av operationen är 0
+C:\Users\carlb\Desktop\Programmering>
+Test 5:
+Hej och välkommen till detta programmet!
+Detta program utför beräkningar utifrån användarens input.
+Två heltal matas in och alla tal mellan dessa två tal summeras 
+multipliceras eller kvadratssummeras, beroende på input
+Ange ett heltal 5
+Ange ett heltal 3
+Ange ett tecken addition, multiplikation eller kvadratsumma a, m eller k:
+a
+Resultatet av operationen är 12
+C:\Users\carlb\Desktop\Programmering>
+Test 6:
+Hej och välkommen till detta programmet!
+Detta program utför beräkningar utifrån användarens input.
+Två heltal matas in och alla tal mellan dessa två tal summeras 
+multipliceras eller kvadratssummeras, beroende på input
+Ange ett heltal -3
+Ange ett heltal -5
+Ange ett tecken addition, multiplikation eller kvadratsumma a, m eller k:
+a
+Resultatet av operationen är -12
+C:\Users\carlb\Desktop\Programmering>
+Test 7:
+Hej och välkommen till detta programmet!
+Detta program utför beräkningar utifrån användarens input.
+Två heltal matas in och alla tal mellan dessa två tal summeras 
+multipliceras eller kvadratssummeras, beroende på input
+Ange ett heltal 1
+Ange ett heltal 100
+Ange ett tecken addition, multiplikation eller kvadratsumma a, m eller k:
+k
+Resultatet av operationen är 338350
+C:\Users\carlb\Desktop\Programmering>
