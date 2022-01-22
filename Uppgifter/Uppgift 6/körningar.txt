@@ -1,0 +1,127 @@
+Test 1:
+Startnummer? 33
+Starttid? 17 30 15
+Måltid? 18 22 35
+Startnummer? -1
+Tim: 0 Min: 52 Sek: 20
+Vinnaren är: 33       
+Antalet tävlande är: 1
+Programmet avslutas   
+C:\Users\carlb\Desktop\Programmering>
+
+Test 2:
+
+Startnummer? 33 
+Starttid? 00 30 15
+Måltid? 19 22 35
+Startnummer? -1
+Tim: 18 Min: 52 Sek: 20
+Vinnaren är: 33
+Antalet tävlande är: 1
+Programmet avslutas
+C:\Users\carlb\Desktop\Programmering>
+
+Test 3:
+
+Startnummer? 33
+Starttid? 17 30 15
+Måltid? 18 22 35
+Startnummer? 14
+Starttid? 23 35 00
+Måltid? 0 12 24
+Startnummer? 26         
+Starttid? 10 11 12
+Måltid? 20 21 22
+Startnummer? -1
+Tim: 0 Min: 37 Sek: 24
+Vinnaren är: 14
+Antalet tävlande är: 3
+Programmet avslutas
+
+Test 4:
+
+tartnummer? 14
+Starttid? 23 35 00
+Måltid? 0 12 24
+Startnummer? 26
+Starttid? 10 11 12
+Måltid? 20 21 22
+Startnummer? 33
+Starttid? 17 30 15 
+Måltid? 18 22 35
+Startnummer? -1
+Tim: 0 Min: 37 Sek: 24
+Vinnaren är: 14
+Antalet tävlande är: 3
+Programmet avslutas
+C:\Users\carlb\Desktop\Programmering>
+
+Test 5:
+Startnummer? 26
+Starttid? 10 11 12
+Måltid? 20 21 22
+Startnummer? 33
+Starttid? 17 30 15
+Måltid? 18 22 35
+Startnummer? 14
+Starttid? 23 35 00
+Måltid? 0 12 24
+Startnummer? -1
+Tim: 0 Min: 37 Sek: 24
+Vinnaren är: 14
+Antalet tävlande är: 3
+Programmet avslutas
+
+Test 6:
+Startnummer? 17
+Starttid? 00 00 50
+Måltid? 00 00 30
+Startnummer? -1
+Tim: 23 Min: 59 Sek: 40
+Vinnaren är: 17
+Antalet tävlande är: 1
+Programmet avslutas
+C:\Users\carlb\Desktop\Programmering>
+
+Test 7:
+
+Startnummer? -1
+Inga tävlande
+Programmet avslutas
+C:\Users\carlb\Desktop\Programmering>
+
+Test 8:
+
+Startnummer? 15      
+Starttid? 10 00 00
+Måltid? 11 00 00
+Startnummer? 12       
+Starttid? 11 00 00
+Måltid? 10 00 10
+Startnummer? -1
+Tim: 1 Min: 0 Sek: 0
+Vinnaren är: 15
+Antalet tävlande är: 2
+Programmet avslutas
+C:\Users\carlb\Desktop\Programmering>
+
+Test 9:
+
+Startnummer? 8
+Starttid? 00 00 10
+Måltid? 00 00 20
+Startnummer? -1
+Tim: 0 Min: 0 Sek: 10
+Vinnaren är: 8
+Antalet tävlande är: 1
+Programmet avslutas
+C:\Users\carlb\Desktop\Programmering>
+
+Test 10: 
+
+
+
+
+
+
+

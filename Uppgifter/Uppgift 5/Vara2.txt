@@ -1,0 +1,10 @@
+(vara2.txt)
+Körningsexempel: användaren matar in följande: Ost, 45.50, 100
+--------------- 
+Ge varans namn:
+Ost   
+Ge pris och antal i lager:
+45.50 100
+         Varunamn: Ost   Pris: 45.5      Antal i lager: 100
+         Varunamn: Ost   Pris: 50.05     Antal i lager: 150
+
